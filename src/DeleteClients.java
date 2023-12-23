@@ -8,7 +8,7 @@ public class DeleteClients extends JFrame {
         setTitle("Delete Clients");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setResizable(false);
-        ImageIcon deleteIcon = new ImageIcon("C:/Users/medth/Desktop/Notebook/Java/Interface_Simulation/icons/DeleteUser.png");
+        ImageIcon deleteIcon = new ImageIcon("DeleteUser.png");
         setIconImage(deleteIcon.getImage());
         setSize(400, 300);
         getContentPane().setBackground(Color.LIGHT_GRAY);
