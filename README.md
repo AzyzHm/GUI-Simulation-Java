@@ -1,2 +1,91 @@
-# GUI-Simulation-Java
-This project is a simple simulation of a Java GUI, created for my Java finals. It primarily utilizes Swing for the user interface and MySQL for database management.
+# GUI Simulation Java
+
+![Java Logo](https://img.shields.io/badge/Language-Java-orange?style=flat-square)
+![MySQL Logo](https://img.shields.io/badge/Database-MySQL-blue?style=flat-square)
+
+A Java project that creates a graphical user interface connected to MySQL for [Your Project Name].
+
+## Table of Contents
+
+- [Technologies Used](#technologies-used)
+- [Setup](#setup)
+- [Screenshots](#screenshots)
+- [License](#license)
+
+
+## Technologies Used
+
+- Java
+- MySQL
+
+## Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/[Your GitHub Username]/gui-simulation-java.git
+cd gui-simulation-java
+```
+2. Set up your MySQL database.
+
+3. Open the project in your preferred Java development environment (e.g., IntelliJ, Eclipse).
+
+4. Navigate to the src directory and open the DatabaseConnection.java file.
+
+5. In the DatabaseConnection.java file, locate the following lines of code:
+```java
+String DataBaseName = "your-database-name";
+String USERNAME = "your-username";
+String PASSWORD = "your-password";
+```
+6. Replace "your-username" , "your-password" and "your-database-name" with your actual MySQL username , password and database.
+
+7. Save the changes.
+
+8. Run the application from your Java development environment.
+
+## Screenshots
+
+### Dashboard
+
+![Dashboard](/screenshots/Dashboard.png)
+
+*Caption: Dashboard.*
+
+### Add a client
+
+![Add a client](/screenshots/Add-a-client.png)
+
+*Caption: Add a client.*
+
+### Admin Login
+
+![Admin Login](/screenshots/Admin-Login.png)
+
+*Caption: Admin Login.*
+
+### Admin Space
+
+![Admin Space](/screenshots/Admin-Space.png)
+
+*Caption: Admin Space.*
+
+### Add a client
+
+![Add a client](/screenshots/Add-a-client.png)
+
+*Caption: Add a client.*
+
+### Delete Client
+
+![Delete Client](/screenshots/Delete-Client.png)
+
+*Caption: Delete Client.*
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
