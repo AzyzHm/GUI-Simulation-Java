@@ -54,31 +54,31 @@ String PASSWORD = "your-password";
 
 ### Add a client
 
-![Add a client](/screenshots/Add a client.png)
+![Add a client](/screenshots/Add-a-client.png)
 
 *Caption: Add a client.*
 
 ### Admin Login
 
-![Admin Login](/screenshots/Admin Login.png)
+![Admin Login](/screenshots/Admin-Login.png)
 
 *Caption: Admin Login.*
 
 ### Admin Space
 
-![Admin Space](/screenshots/Admin Space.png)
+![Admin Space](/screenshots/Admin-Space.png)
 
 *Caption: Admin Space.*
 
 ### Show client
 
-![Add a client](/screenshots/Show client.png)
+![Add a client](/screenshots/Show-Client.png)
 
 *Caption: Show client.*
 
 ### Delete Client
 
-![Delete Client](/screenshots/Delete Client.png)
+![Delete Client](/screenshots/Delete-Client.png)
 
 *Caption: Delete Client.*
 
