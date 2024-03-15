@@ -23,8 +23,8 @@ A Java project that creates a graphical user interface connected to MySQL for [Y
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AzyzHm/gui-simulation-java.git
-cd gui-simulation-java
+git clone https://github.com/AzyzHm/GUI-Simulation-Java.git
+cd GUI-Simulation-Java
 ```
 2. Set up your MySQL database.
 
